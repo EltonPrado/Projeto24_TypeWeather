@@ -53,7 +53,6 @@ Quer conferir o TypeWeather? [Visite o projeto online.](https://typeweatherclima
   
 <br>
 
-
 ## Tecnologias, Bibliotecas e Ferramentas
 
 Foram utilizadas as seguintes tecnologias, bibliotecas e ferramentas para o desenvolvimento do frontend desse projeto:
