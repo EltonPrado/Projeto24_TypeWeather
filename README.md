@@ -41,7 +41,7 @@ Foi aprendido:
 
 ### Deploy
 
-Quer conferir o TypeWeather? [Visite o projeto online.]()
+Quer conferir o TypeWeather? [Visite o projeto online.](https://typeweatherclimate.netlify.app/)
 
 
 ## Funcionalidades
@@ -71,4 +71,4 @@ Foram utilizadas as seguintes tecnologias, bibliotecas e ferramentas para o dese
 
 
 ## Autor
-Desenvolvido por [Rocketseat](https://www.rocketseat.com.br/explorer). :rocket:
+Desenvolvido por [Rocketseat](https://www.rocketseat.com.br/). :rocket:
