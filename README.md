@@ -50,8 +50,7 @@ Quer conferir o TypeWeather? [Visite o projeto online.](https://typeweatherclima
   - Pode Fazer a busca pelo nome da cidade;
     - Feito através da campo de pesquisa.
   - Visualiza as informações do clima da cidade;
-  
-<br>
+
 
 ## Tecnologias, Bibliotecas e Ferramentas
 
